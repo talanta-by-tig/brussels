@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://www.talanta.com/hubfs/favicon.png
   name: Talanta's Services Status Page
   introTitle: "**Brussels** is the uptime monitor and status page of Talanta's services."
-  theme: dark
+  theme: night
   publish: true
   navbar:
     - title: Status
