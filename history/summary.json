@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/placement.talanta.com.ico",
     "slug": "buenos-aires",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 360,
     "timeWeek": 416,
     "timeMonth": 416,
     "timeYear": 416,
-    "dailyMinutesDown": {
-      "2023-02-01": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tokyo",
