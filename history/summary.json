@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 439,
-    "timeDay": 349,
-    "timeWeek": 439,
-    "timeMonth": 439,
-    "timeYear": 439,
+    "time": 428,
+    "timeDay": 295,
+    "timeWeek": 392,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://api.talanta.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.talanta.com.ico",
     "slug": "london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 363,
-    "timeWeek": 435,
-    "timeMonth": 435,
-    "timeYear": 435,
-    "dailyMinutesDown": {}
+    "time": 425,
+    "timeDay": 295,
+    "timeWeek": 384,
+    "timeMonth": 425,
+    "timeYear": 425,
+    "dailyMinutesDown": {
+      "2023-02-07": 0
+    }
   },
   {
     "name": "Medellin",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 233,
-    "timeWeek": 396,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "time": 393,
+    "timeDay": 355,
+    "timeWeek": 344,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 242,
-    "timeWeek": 378,
-    "timeMonth": 378,
-    "timeYear": 378,
+    "time": 382,
+    "timeDay": 446,
+    "timeWeek": 323,
+    "timeMonth": 382,
+    "timeYear": 382,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 248,
-    "timeWeek": 353,
-    "timeMonth": 353,
-    "timeYear": 353,
+    "time": 342,
+    "timeDay": 200,
+    "timeWeek": 273,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 76,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "time": 194,
+    "timeDay": 98,
+    "timeWeek": 138,
+    "timeMonth": 194,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   }
 ]
