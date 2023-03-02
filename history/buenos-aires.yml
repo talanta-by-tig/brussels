@@ -1,7 +1,7 @@
 url: https://placement.talanta.com/login
-status: down
-code: 502
-responseTime: 251
-lastUpdated: 2023-03-02T18:35:16.116Z
+status: up
+code: 200
+responseTime: 539
+lastUpdated: 2023-03-02T18:44:00.350Z
 startTime: Mon Jan 30 2023 16:19:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
