@@ -22,9 +22,9 @@
     "url": "https://api.talanta.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.talanta.com.ico",
     "slug": "london",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -34,6 +34,7 @@
     "timeMonth": 473,
     "timeYear": 616,
     "dailyMinutesDown": {
+      "2023-05-18": 0,
       "2023-04-15": 23,
       "2023-04-13": 20,
       "2023-03-21": 22,
@@ -48,9 +49,9 @@
     "url": "https://platform.talanta.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/platform.talanta.com.ico",
     "slug": "medellin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,7 +60,9 @@
     "timeWeek": 473,
     "timeMonth": 485,
     "timeYear": 514,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-18": 0
+    }
   },
   {
     "name": "Buenos Aires",
