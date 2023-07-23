@@ -114,8 +114,8 @@
     "slug": "caracas",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
@@ -124,7 +124,7 @@
     "timeMonth": 268,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2023-07-23": 0
+      "2023-07-23": 1
     }
   }
 ]
